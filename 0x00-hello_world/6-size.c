@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints the size of various comput
-er types
+ * main - A program that prints the size of various types on the computer it is compiled and run on
  * Return 0 (Success)
  */
 int main(void)
@@ -14,7 +13,7 @@ int main(void)
 
 printf("Size of a char: %lu byte(s)\n", (unsigned long)
 sizeof(a));
-printf("Size of a int: %lu byte(s)\n", (unsigned long)
+printf("Size of an int: %lu byte(s)\n", (unsigned long)
 sizeof(b));
 printf("Size of a long int: %lu byte(s)\n", (unsigned long)
 sizeof(c));
