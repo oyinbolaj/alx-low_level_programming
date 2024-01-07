@@ -2,7 +2,7 @@
 /**
  * main - A program that prints the size of various typ
  * es on the computer it is  compiled and run on
- * Return 0(Success)
+ * Return: 0(Success)
  */
 
 int main(void)
